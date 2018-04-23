@@ -1,0 +1,4 @@
+Initialized remote git repo on github
+
+$ git remote add origin https://github.com/dkisliuk/gitTutorial.git
+$ git push -u origin master 
